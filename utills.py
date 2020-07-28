@@ -87,7 +87,7 @@ def load_data(base_path, path, cuts=2):
     x = []
     y = []
     total = len(data)
-    for i in range(total//100):
+    for i in range(total):
 
         im = Image.open(path + data.iloc[i]['image'])
         im = np.array(im).astype('float16')
