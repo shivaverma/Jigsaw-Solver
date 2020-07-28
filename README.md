@@ -1,5 +1,5 @@
 ## Jigsaw-Solver
-**version** - `1.0.1`
+**version** - `1.0.0`
 
 This software solve the Jigsw puzzle using neural networks.
 
