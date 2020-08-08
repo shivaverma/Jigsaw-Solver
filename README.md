@@ -9,12 +9,9 @@ This software solve the Jigsw puzzle using neural networks.
 - **`keras`** -  `2.4.3`
 - **`tensorflow`** -  `2.2.0`
 
-Download dataset from [here](https://www.kaggle.com/shivajbd/jigsawpuzzle) for this project.
-
 ---
 
-This project contains following files:
-
+### Project Content
 
 | File      | Description |
 | :-----------: | :-----------: |
@@ -24,13 +21,15 @@ This project contains following files:
 | **datagen_scripts** | scripts for preparing data |
 
 ---
+### Performance
 
-Following is a snippet showing network solving the puzzle.
-Network is able to solve the puzzles with 80% accuracy.
+Network was able to solve the puzzles with 80% accuracy. Following is a snippet showing network solving the puzzle.
 
 <img src=result/result.png width="800">
 
 ---
 
-Read [this](https://medium.com/@shivajbd/solving-jigsaw-using-neural-nets-cc543a5f025c) blog for more detail on this project.
+### References
 
+- Download the [**dataset**](https://www.kaggle.com/shivajbd/jigsawpuzzle) for this project.
+- Read this [**blog**](https://medium.com/@shivajbd/solving-jigsaw-using-neural-nets-cc543a5f025c) to get all detail of this project.
