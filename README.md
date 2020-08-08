@@ -9,6 +9,8 @@ This software solve the Jigsw puzzle using neural networks.
 - **`keras`** -  `2.4.3`
 - **`tensorflow`** -  `2.2.0`
 
+Download datasetfrom [here](https://www.kaggle.com/shivajbd/jigsawpuzzle) for this project.
+
 ---
 
 This project contains following files:
