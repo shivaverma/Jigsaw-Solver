@@ -30,4 +30,5 @@ Network is able to solve the puzzles with 80% accuracy.
 
 ---
 
+Read [this](https://medium.com/@shivajbd/solving-jigsaw-using-neural-nets-cc543a5f025c) blog for more detail on this project.
 
