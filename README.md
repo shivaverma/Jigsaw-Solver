@@ -18,7 +18,7 @@ This software solve the Jigsw puzzle using neural networks.
 | **main.ipynb** | notebook for running and testing the code |
 | **model.py**   | neural network implementation |
 | **utills**      | contains helper functions |
-| **datagen_scripts** | scripts for preparing data |
+| **datagen_scripts** | scripts for generating data |
 
 ---
 ### Performance
